@@ -86,4 +86,4 @@ for (let i = 0; i < months.length; i++) {
   console.log(monthStack.pop())
   console.log(monthStack.peek())
 
-//   console.log(inspect(monthStack, {showHidden: true, colors:true, depth:12}))
+  console.log(inspect(monthStack, {showHidden: true, colors:true, depth:12}))
